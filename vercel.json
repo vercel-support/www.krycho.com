@@ -278,7 +278,7 @@
       "permanent": true
     },
     {
-      "source": "were-in/",
+      "source": "/were-in/",
       "destination": "https://v1.krycho.com/were-in/",
       "permanent": true
     },
