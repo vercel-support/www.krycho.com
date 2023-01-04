@@ -273,12 +273,12 @@
       "permanent": true
     },
     {
-      "source": "were-in/:path?",
+      "source": "/were-in/:path?",
       "destination": "https://v1.krycho.com/were-in/:path",
       "permanent": true
     },
     {
-      "source": "/were-in/",
+      "source": "/were-in",
       "destination": "https://v1.krycho.com/were-in/",
       "permanent": true
     },
